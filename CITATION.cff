@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Spherical Sampling Exploration: Reconstruction Accuracy of Classical and Polyhedral Sampling Schemes on the Sphere"
+abstract: >-
+  A set of Jupyter notebooks exploring sampling schemes on the sphere and the
+  accuracy with which a bandlimited spherical function can be reconstructed
+  from samples taken on each one. Compares classical quadrature-based grids
+  (Driscoll-Healy, Gauss-Legendre, McEwen-Wiaux) against polyhedral grids
+  built by refining tetrahedral, octahedral and icosahedral meshes.
+type: software
+authors:
+  - given-names: "Edward John"
+    family-names: "Domingo"
+version: 1.0.0
+date-released: "2026-10-05"
+license: MIT
+repository-code: "https://github.com/emdomingo/spherical-sampling-exploration"
+keywords:
+  - spherical harmonics
+  - spherical sampling
+  - spherical Fourier transform
+  - quadrature on the sphere
+  - bandlimited signals
+  - polyhedral grids
+  - reconstruction error
+# After the first Zenodo release, add the CONCEPT DOI (the "all versions" one):
+# doi: 10.5281/zenodo.XXXXXXX

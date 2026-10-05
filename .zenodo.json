@@ -1,0 +1,26 @@
+{
+  "title": "Spherical Sampling Exploration: Reconstruction Accuracy of Classical and Polyhedral Sampling Schemes on the Sphere",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Domingo, Edward John"
+    }
+  ],
+  "description": "<p>A set of Jupyter notebooks exploring sampling schemes on the sphere and the accuracy with which a bandlimited spherical function can be reconstructed from samples taken on each one.</p><p>The work covers the mathematical background of spherical harmonics and the spherical Fourier transform, then compares two families of grids: classical quadrature-based grids (Driscoll&ndash;Healy, Gauss&ndash;Legendre, McEwen&ndash;Wiaux) and polyhedral grids built by refining tetrahedral, octahedral and icosahedral meshes. For each scheme the notebooks measure reconstruction error against a known ground-truth signal, resolved per spherical harmonic mode and per degree, and examine the conditioning of the associated transforms.</p>",
+  "keywords": [
+    "spherical harmonics",
+    "spherical sampling",
+    "spherical Fourier transform",
+    "quadrature on the sphere",
+    "bandlimited signals",
+    "Driscoll-Healy",
+    "Gauss-Legendre",
+    "McEwen-Wiaux",
+    "polyhedral grids",
+    "icosahedral grids",
+    "reconstruction error",
+    "numerical analysis"
+  ]
+}
