@@ -23,5 +23,9 @@ keywords:
   - bandlimited signals
   - polyhedral grids
   - reconstruction error
-# After the first Zenodo release, add the CONCEPT DOI (the "all versions" one):
-# doi: 10.5281/zenodo.XXXXXXX
+# Concept DOI - resolves to the latest archived version.
+doi: 10.5281/zenodo.23151048
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23151049
+    description: "Version DOI for the v1.0.0 release."
