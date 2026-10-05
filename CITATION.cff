@@ -11,7 +11,7 @@ type: software
 authors:
   - given-names: "Edward John"
     family-names: "Domingo"
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-10-05"
 license: MIT
 repository-code: "https://github.com/emdomingo/spherical-sampling-exploration"
@@ -25,7 +25,3 @@ keywords:
   - reconstruction error
 # Concept DOI - resolves to the latest archived version.
 doi: 10.5281/zenodo.23151048
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.23151049
-    description: "Version DOI for the v1.0.0 release."
